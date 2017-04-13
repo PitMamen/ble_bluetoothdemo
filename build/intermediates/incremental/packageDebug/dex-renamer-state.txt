@@ -1,0 +1,7 @@
+#Thu Apr 13 14:12:32 CST 2017
+base.0=D\:\\MYGTHandShank\\bluetoothLe_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3996a4d46eb723ce52cec820f016d39d835000e3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\MYGTHandShank\\bluetoothLe_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0e60a54effa36fe7aa811a0ca46c6c681428cccf\\classes.dex
+base.1=D\:\\MYGTHandShank\\bluetoothLe_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0e60a54effa36fe7aa811a0ca46c6c681428cccf
+file.0=D\:\\MYGTHandShank\\bluetoothLe_demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3996a4d46eb723ce52cec820f016d39d835000e3\\classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MYGTHandShank\\bluetoothLe_demo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\MYGTHandShank\\bluetoothLe_demo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\bluetoothLe_demo\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\MYGTHandShank\\bluetoothLe_demo\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]
